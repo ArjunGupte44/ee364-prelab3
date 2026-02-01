@@ -1,1 +1,1 @@
-#allows user to upload a profile picture
+#allows user to upload their profile picture
